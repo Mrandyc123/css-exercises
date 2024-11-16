@@ -1,0 +1,22 @@
+.pink,
+.bigpink {
+    background-color: rgb(231, 179, 188);
+    font-family: verdana, sans-serif;
+
+}
+
+.changefont-size{
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(64, 64, 216);
+    font-size: 36px ;
+
+}
+
+#green{
+    background-color:rgb(127, 219, 127);
+    
+    font-weight: bold;
+}
