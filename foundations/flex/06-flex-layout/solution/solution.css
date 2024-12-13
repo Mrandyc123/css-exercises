@@ -30,6 +30,7 @@ input {
 body {
   display: flex;
   flex-direction: column;
+  border-style: solid;
 }
 
 button {
@@ -43,6 +44,7 @@ button {
   justify-content: center;
   flex-direction: column;
   gap: 16px;
+  border-style: solid;
 }
 
 a {
@@ -55,6 +57,7 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 16px;
+  border-style: solid;
 }
 
 .footer {
@@ -66,5 +69,6 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
-  gap: 16px
+  gap: 16px;
+  border-style: solid;
 }
